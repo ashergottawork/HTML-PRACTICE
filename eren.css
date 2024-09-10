@@ -1,0 +1,27 @@
+   /* < Author: Asher Afelumo, 000857972 */
+
+header{
+    background-color: grey;
+    text-align: center;
+}
+
+h1{
+    color: black;
+}
+
+h2{
+    color: black;
+    background-color:bisque;
+}
+
+footer{
+    background-color: grey;
+    text-align: center;
+    color:black
+}
+
+.carousel {
+    width:700px;
+    height:400px;
+ }
+
